@@ -148,7 +148,7 @@ def clean_code( df1 ):
 
 #Importando DataFrame
 # df = pd.read_csv(r'C:\Users\Welison\Documents\repos\ftc_fast_track_courses\datasets\train.csv')
-df = pd.read_csv('..\datasets\train.csv')
+df = pd.read_csv(r'datasets/train.csv')
 
 #Limpeza Dataframe
 
